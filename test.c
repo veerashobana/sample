@@ -10,7 +10,7 @@ void main()
     //Program variables
     int cn, rge, num1 = 0, num2 = 1, num3;
     //Display function
-    printf("Enter the range of Fibonacci series to generate : ");
+    printf("Enter the range of Fibonacci series to generate: ");
     scanf("%d", &rge); //Getting input function
  
     printf("%d-->%d-->", num1, num2);
