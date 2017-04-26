@@ -8,7 +8,7 @@ Author: Vinoth Selvaraj
 void main()
 {
     //Program variables
-    int cn, rge, num1=0, num2=1, num3;
+    int cn, rge, num1 = 0, num2 = 1, num3;
     //Display function
     printf("Enter the range of Fibonacci series to generate : ");
     scanf("%d", &rge); //Getting input function
