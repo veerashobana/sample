@@ -1,5 +1,5 @@
 /* Fibonacci series
-Author: Vinoth Selvaraj
+Author:Vinoth Selvaraj
 © http://students3k.com
 */
 //Header files
